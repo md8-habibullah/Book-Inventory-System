@@ -1,0 +1,7 @@
+1,alice,alice@mail.com,password123
+2,bob,bob@mail.com,secret456
+3,charlie,charlie@mail.com,abc999
+4,zozo,zozo@io.oi,io4jrheg
+5,asif,asif@hi.oi,iuygf
+5,fjwnfj,fowiejf,ifjoi4fj
+6,iujhb,gegeg,h54h
