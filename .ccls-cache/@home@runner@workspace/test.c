@@ -1,12 +1,3 @@
-// plz try do self without AI
-// plz try do self without AI
-// plz try do self without AI
-// plz try do self without AI
-// plz try do self without AI
-// plz try do self without AI
-// plz try do self without AI
-// plz try do self without AI
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
